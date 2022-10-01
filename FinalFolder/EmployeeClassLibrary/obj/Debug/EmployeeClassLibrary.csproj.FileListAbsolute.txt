@@ -1,0 +1,15 @@
+D:\intern\FinalFolder\EmployeeClassLibrary\bin\Debug\EmployeeClassLibrary.dll
+D:\intern\FinalFolder\EmployeeClassLibrary\bin\Debug\EmployeeClassLibrary.pdb
+D:\intern\FinalFolder\EmployeeClassLibrary\bin\Debug\ClosedXML.dll
+D:\intern\FinalFolder\EmployeeClassLibrary\bin\Debug\DocumentFormat.OpenXml.dll
+D:\intern\FinalFolder\EmployeeClassLibrary\bin\Debug\ExcelNumberFormat.dll
+D:\intern\FinalFolder\EmployeeClassLibrary\bin\Debug\System.IO.Packaging.dll
+D:\intern\FinalFolder\EmployeeClassLibrary\bin\Debug\ClosedXML.pdb
+D:\intern\FinalFolder\EmployeeClassLibrary\bin\Debug\ClosedXML.xml
+D:\intern\FinalFolder\EmployeeClassLibrary\bin\Debug\DocumentFormat.OpenXml.xml
+D:\intern\FinalFolder\EmployeeClassLibrary\bin\Debug\ExcelNumberFormat.xml
+D:\intern\FinalFolder\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.csproj.AssemblyReference.cache
+D:\intern\FinalFolder\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.csproj.CoreCompileInputs.cache
+D:\intern\FinalFolder\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.csproj.CopyComplete
+D:\intern\FinalFolder\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.dll
+D:\intern\FinalFolder\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.pdb

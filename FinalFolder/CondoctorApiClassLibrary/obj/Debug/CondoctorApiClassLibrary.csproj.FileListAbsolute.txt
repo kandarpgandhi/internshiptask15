@@ -1,0 +1,6 @@
+D:\intern\FinalFolder\CondoctorApiClassLibrary\bin\Debug\CondoctorApiClassLibrary.dll
+D:\intern\FinalFolder\CondoctorApiClassLibrary\bin\Debug\CondoctorApiClassLibrary.pdb
+D:\intern\FinalFolder\CondoctorApiClassLibrary\obj\Debug\CondoctorApiClassLibrary.csproj.AssemblyReference.cache
+D:\intern\FinalFolder\CondoctorApiClassLibrary\obj\Debug\CondoctorApiClassLibrary.csproj.CoreCompileInputs.cache
+D:\intern\FinalFolder\CondoctorApiClassLibrary\obj\Debug\CondoctorApiClassLibrary.dll
+D:\intern\FinalFolder\CondoctorApiClassLibrary\obj\Debug\CondoctorApiClassLibrary.pdb

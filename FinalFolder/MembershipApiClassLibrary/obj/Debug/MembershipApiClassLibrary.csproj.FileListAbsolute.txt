@@ -1,0 +1,6 @@
+D:\intern\FinalFolder\MembershipApiClassLibrary\bin\Debug\MembershipApiClassLibrary.dll
+D:\intern\FinalFolder\MembershipApiClassLibrary\bin\Debug\MembershipApiClassLibrary.pdb
+D:\intern\FinalFolder\MembershipApiClassLibrary\obj\Debug\MembershipApiClassLibrary.csproj.AssemblyReference.cache
+D:\intern\FinalFolder\MembershipApiClassLibrary\obj\Debug\MembershipApiClassLibrary.csproj.CoreCompileInputs.cache
+D:\intern\FinalFolder\MembershipApiClassLibrary\obj\Debug\MembershipApiClassLibrary.dll
+D:\intern\FinalFolder\MembershipApiClassLibrary\obj\Debug\MembershipApiClassLibrary.pdb

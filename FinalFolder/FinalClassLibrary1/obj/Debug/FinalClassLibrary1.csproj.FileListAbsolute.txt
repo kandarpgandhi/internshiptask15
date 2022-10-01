@@ -1,0 +1,6 @@
+D:\intern\FinalFolder\FinalClassLibrary1\bin\Debug\FinalClassLibrary1.dll
+D:\intern\FinalFolder\FinalClassLibrary1\bin\Debug\FinalClassLibrary1.pdb
+D:\intern\FinalFolder\FinalClassLibrary1\obj\Debug\FinalClassLibrary1.csproj.AssemblyReference.cache
+D:\intern\FinalFolder\FinalClassLibrary1\obj\Debug\FinalClassLibrary1.csproj.CoreCompileInputs.cache
+D:\intern\FinalFolder\FinalClassLibrary1\obj\Debug\FinalClassLibrary1.dll
+D:\intern\FinalFolder\FinalClassLibrary1\obj\Debug\FinalClassLibrary1.pdb
